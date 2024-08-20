@@ -1,0 +1,15 @@
+
+.ant-table-thead > tr > th {
+    background-color: #163665; 
+    color: white; 
+    text-align: center;
+  }
+  
+  .ant-table {
+    border-color: #163665;
+  }
+  
+  .ant-input {
+    background-color: #f0f2f5;
+  }
+  

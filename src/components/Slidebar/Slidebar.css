@@ -1,0 +1,24 @@
+
+.ant-menu-dark .ant-menu-item-selected {
+  background-color: #163665 !important;
+  border-radius: 0 !important;
+}
+.icon-large {
+  font-size: 1.25rem !important; 
+}
+.trigger-large {
+  font-size: 1.5rem !important; 
+}
+
+
+.custom-menu .ant-menu-item {
+  border-radius: 0 !important; 
+}
+
+.menu-collapsed .ant-menu-item {
+  text-align: center; 
+}
+
+.menu-collapsed .ant-menu-submenu-title {
+  text-align: center; 
+}

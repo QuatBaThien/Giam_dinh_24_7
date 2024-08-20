@@ -1,0 +1,10 @@
+.admin-layout {
+    min-height: 100vh;
+  }
+  
+  .admin-content {
+    overflow: initial;
+    background-color: #fff;
+    padding: 24px;
+  }
+  
